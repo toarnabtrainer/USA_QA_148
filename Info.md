@@ -16,3 +16,5 @@ Learn Python Programming (data-flair): https://data-flair.training/blogs/python-
 
 
 Online Editor Link: https://www.onlinegdb.com/
+
+HTML Color Codes: https://htmlcolorcodes.com/
